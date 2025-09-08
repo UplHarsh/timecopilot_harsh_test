@@ -21,9 +21,11 @@ nav:
   - Quickstart Examples:
       - examples/agent-quickstart.ipynb
       - examples/forecaster-quickstart.ipynb
+      - examples/anomaly-detection-forecaster-quickstart.ipynb
       - examples/gift-eval.ipynb
   - Experiments:
       - experiments/gift-eval.md
+      - experiments/fev.md
   - Documentation:
       - Time Series Model Hub: model-hub.md
       - Forecasting Parameters: forecasting-parameters.md
