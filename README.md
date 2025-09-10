@@ -22,7 +22,7 @@ Developed with 💙 at [timecopilot.dev](https://timecopilot.dev/).
 ---
 
 !!! tip "Want the latest on TimeCopilot?"
-    Have ideas or want to test it in real-world use? Fill out [our form](https://docs.google.com/forms/d/e/1FAIpQLSeQWKVHjYKe1ayEso-K2My9nQsoaSWxzht0S6D4yrCln7BECQ/viewform?usp=dialog) or join our [Discord community](https://discord.gg/7GEdHR6Pfg) and help predict the future.
+    Have ideas or want to test it in real-world use? Join our [Discord community](https://discord.gg/7GEdHR6Pfg) and help shape the future.
 
 ---
 
@@ -283,5 +283,20 @@ You can ask other types of questions:
     - Watch for new releases!
 
 
+## How to cite?
+
+Our pre-print paper is [available in arxiv](https://arxiv.org/abs/2509.00616).
+
+```
+@misc{garza2025timecopilot,
+      title={TimeCopilot}, 
+      author={Azul Garza and Reneé Rosillo},
+      year={2025},
+      eprint={2509.00616},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.00616}, 
+}
+```
 
 
